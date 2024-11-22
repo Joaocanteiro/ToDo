@@ -174,7 +174,7 @@ body {
     align-items: center;
     justify-content: space-between;
     gap: 0.8rem;
-    color: #4EA8DE;
+    color: #4ede66;
     font-size: 1.4rem;
     font-weight: 700;
 
@@ -189,7 +189,7 @@ body {
 }
 
 .summary-label.purple {
-    color: #8284FA;
+    color: #02a4a2d5;
 }
 
 .task-item.removed {
